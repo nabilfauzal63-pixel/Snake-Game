@@ -1,0 +1,12 @@
+{
+  "name": "snake_game",
+  "version": "1.0.0",
+  "description": "Snake Game Grafika Komputer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
